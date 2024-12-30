@@ -1,2 +1,4 @@
 ultralytics
 mediapipe
+
+protobuf<5
